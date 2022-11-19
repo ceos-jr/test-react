@@ -38,7 +38,7 @@ export const arquivos = [
       { nome: "logo" },
       {
         nome: "documentos",
-        filhos: [{ nome: "burocracia" }, { nome: "contratos" }]
+        filhos: [{ nome: "papelada" }, { nome: "contratos" }]
       }
     ]
   }
